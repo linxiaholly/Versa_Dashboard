@@ -222,9 +222,6 @@ select {
   .navbar-collapse.in{ overflow-y:visible;}
 
 
-  .hero h1 {
-    animation: smaller-title 1.2s forwards linear;
-  }
 }
 
 /* keyframe animations which will be used to animate the title */
